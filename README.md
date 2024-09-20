@@ -1,0 +1,1 @@
+# This HTML code creates a responsive pricing table with three plans (Basic, Standard, Premium) using Flexbox. Each plan shows a title, price, feature list, and a sign-up button. It includes a Google Fonts link for custom fonts and references an external CSS file for styling. The layout is designed to adapt to various screen sizes.
